@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.digimarc.corvallis",
+    "sha256_cert_fingerprints":
+    ["AD:03:EB:D2:A6:F8:09:04:D6:C3:CC:DE:B2:1C:7B:C9:EF:39:86:02:EC:C6:32:1F:7E:2F:5D:BF:84:4B:55:C4"]
+  }
+}]
