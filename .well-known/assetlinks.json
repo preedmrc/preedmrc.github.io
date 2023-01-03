@@ -1,9 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.digimarc.corvallis",
-    "sha256_cert_fingerprints":
-    ["AD:03:EB:D2:A6:F8:09:04:D6:C3:CC:DE:B2:1C:7B:C9:EF:39:86:02:EC:C6:32:1F:7E:2F:5D:BF:84:4B:55:C4"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.digimarc.instant",
+      "sha256_cert_fingerprints":
+        ["FA:34:7F:21:4E:34:9E:3E:CC:AC:E3:77:62:03:93:3B:59:AC:47:DD:13:A6:43:AD:D1:CE:79:15:34:54:16:53"]
+    }
   }
-}]
+]
